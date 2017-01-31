@@ -12,6 +12,7 @@ This is a sample of a Connect4 game RESTful Web Service service based on Spring 
 * [Spring Data REST](http://projects.spring.io/spring-data-rest/)
 * [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/)
 * [Spring HATEOAS](http://projects.spring.io/spring-hateoas/)
+* [Embedded Jetty](https://www.eclipse.org/jetty/)
  
 ### Building
 
